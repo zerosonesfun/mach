@@ -1,0 +1,19 @@
+/* Mach Minimal Styling */
+#mach-content {
+    width: 96%;
+}
+#mach-form textarea {
+    background: inherit;
+    border-radius: inherit;
+	font-family: inherit;
+	font-weight: inherit;
+	padding: 10px;
+}
+#mach-form input[type=submit] {
+	background: inherit;
+	font-family: inherit;
+	font-weight: inherit;
+	float: right;
+	margin-top: 10px;
+	border: inherit;
+}
