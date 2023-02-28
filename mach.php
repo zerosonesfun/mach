@@ -3,7 +3,7 @@
 Plugin Name: Mach
 Plugin URI: https://wilcosky.com/mach
 Description: Create a new post from the front-end; QUICKLY.
-Version: 1.0
+Version: 0.1
 Author: Billy Wilcosky
 Author URI: https://wilcosky.com
 */
