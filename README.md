@@ -5,5 +5,6 @@ A simple WordPress posting form which allows authors to post from the frontend a
 There is only one field, a textarea. Start by typing the title in parentheses. Then type your content. Within the content feel free to hashtag words; those will become post tags. At this time you cannot set a category; it will use your blog's default category.
 
 ### example
+#### text in form
 (This is an amazing title)
 But, the #content is even better!
